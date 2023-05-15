@@ -1,13 +1,17 @@
 
 /* Your CSS Code here. */
-div{
-width:200px;
-background-color:purple;
-border-left:5px solid green;
-color:white;
-font-size:20px;
-padding:10px;
-	
+
+.main{
+	background-color: purple;
+	border-left:5px solid green;
+
+	width: 200px;
+	color: white;	
+	font-size:20px;
+	padding:10px;
+}
+h4{
+		padding:10px;
 }
 
 	
